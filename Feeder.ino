@@ -1,8 +1,9 @@
 /*
   Скетч к проекту "Автокормушка Wi-Fi"
   - Создан на основе оригинального скетча AlexGyver
-  - Страница проекта (схемы, описания): https://alexgyver.ru/gyverfeed2/
-  - Исходники на GitHub: https://github.com/AlexGyver/GyverFeed2/
+  - Исходники этого проекта https://github.com/sohm777/feeder/
+  - Страница проекта AlexGyver (схемы, описания): https://alexgyver.ru/gyverfeed2/
+  - Исходники скетча AlexGyver: https://github.com/AlexGyver/GyverFeed2/
 */
 
 // Click - extraordinary feeding
